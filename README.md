@@ -1,17 +1,25 @@
 # Final-Project-Transforming-and-Analyzing-Data-with-SQL
 
 ## Project/Goals
-(fill in your description and goals here)
+Able to perform all data cleaning steps, transforming and analyzing data. And Developing and implementing a QA process.
 
 ## Process
-### (your step 1)
-### (your step 2)
+1- Data Cleaning.
+2- Analyzing Data. 
 
 ## Results
-(fill in what you discovered this data could tell you and how you used the data to answer those questions)
+This database provides data on revenue by product. 
+The correlation between the visitor who the site interacted with the products are discussed.
+We figure out 
+- the impact of revenue generated from each city/country
+- the top-selling product from each city/country
+- the pattern in the types (product categories) of products ordered from visitors in each city and country
+- the average number of products ordered from visitors in each city and country
+- the highest level of transaction revenues on the site in each city and country
 
 ## Challenges 
-(discuss challenges you faced in the project)
+The time and to review huge information in short time.
 
 ## Future Goals
-(what would you do if you had more time?)
+Reading and Practicing to write advanced codes using SQL. 
+Practicing and Performing varity projects.
